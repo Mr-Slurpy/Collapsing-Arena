@@ -215,7 +215,7 @@ anchor_top = 0.0
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 117.0
-margin_right = 530.0
+margin_right = 422.0
 margin_bottom = 177.0
 rect_pivot_offset = Vector2( 0, 0 )
 rect_clip_content = false
@@ -238,7 +238,7 @@ anchor_top = 0.0
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 197.0
-margin_right = 530.0
+margin_right = 422.0
 margin_bottom = 432.0
 rect_pivot_offset = Vector2( 0, 0 )
 rect_clip_content = false
@@ -256,7 +256,7 @@ anchor_top = 0.0
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_left = 10.0
-margin_right = 530.0
+margin_right = 422.0
 margin_bottom = 235.0
 rect_pivot_offset = Vector2( 0, 0 )
 rect_clip_content = false
@@ -267,7 +267,7 @@ size_flags_vertical = 4
 text = "Objective of the game: score the most points.
 
 The walls are closing in on you every second!
-The walls are Shoot the walls to expand the arena.
+Shoot the walls to expand the arena.
 Killing bad guys and expanding the arena gives you points.
 
 Avoid getting hit by bullets which deplete your health.
@@ -289,7 +289,7 @@ anchor_top = 0.0
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 452.0
-margin_right = 530.0
+margin_right = 422.0
 margin_bottom = 482.0
 rect_pivot_offset = Vector2( 0, 0 )
 rect_clip_content = false
